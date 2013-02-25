@@ -1,3 +1,4 @@
+=begin
 require 'spec_helper'
 
 describe ApplicationHelper do
@@ -16,3 +17,4 @@ describe ApplicationHelper do
 		end
 	end
 end
+=end
